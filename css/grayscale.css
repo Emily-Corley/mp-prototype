@@ -12,8 +12,8 @@
 #mainNav .navbar-toggler {
   font-size: 80%;
   padding: 0.75rem;
-  color: #9d86ad;
-  border: 1px solid #9d86ad;
+  color: #6f92b3;
+  border: 1px solid #6f92b3;
 }
 
 #mainNav .navbar-toggler:focus {
@@ -21,7 +21,7 @@
 }
 
 #mainNav .navbar-brand {
-  color: #9d86ad;
+  color: #6f92b3;
   font-weight: 700;
   padding: .9rem 0;
 }
@@ -147,7 +147,7 @@
 }
 
 .btn-primary {
-  background-color: #9d86ad;
+  background-color: #6f92b3;
 }
 
 .btn-primary:hover {
@@ -183,7 +183,7 @@
 @media (min-width: 992px) {
   .projects-section .featured-text {
     padding: 0 0 0 2rem;
-    border-left: 0.5rem solid #9d86ad;
+    border-left: 0.5rem solid #6f92b3;
   }
 }
 
@@ -229,7 +229,7 @@
 
 .contact-section .card {
   border: 0;
-  border-bottom: 0.25rem solid #9d86ad;
+  border-bottom: 0.25rem solid #6f92b3;
 }
 
 .contact-section .card h4 {
@@ -240,7 +240,7 @@
 }
 
 .contact-section .card hr {
-  border-color: #9d86ad;
+  border-color: #6f92b3;
   border-width: 0.25rem;
   width: 3rem;
 }
@@ -273,7 +273,7 @@ body {
 }
 
 a {
-  color: #9d86ad;
+  color: #6f92b3;
 }
 
 a:focus, a:hover {
