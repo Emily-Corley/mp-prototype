@@ -72,15 +72,15 @@
     border-bottom: 0.25rem solid transparent;
   }
   #mainNav.navbar-shrink .nav-link:hover {
-    color: #64a19d;
+    color: #6f92b3;
   }
   #mainNav.navbar-shrink .nav-link:active {
     color: #467370;
   }
   #mainNav.navbar-shrink .nav-link.active {
-    color: #64a19d;
+    color: #6f92b3;
     outline: none;
-    border-bottom: 0.25rem solid #64a19d;
+    border-bottom: 0.25rem solid #6f92b3;
   }
 }
 
@@ -197,7 +197,7 @@
     padding: 5rem;
   }
   .projects-section .project-text hr {
-    border-color: #64a19d;
+    border-color: #6f92b3;
     border-width: .25rem;
     width: 30%;
   }
@@ -268,7 +268,7 @@
 }
 
 body {
-  font-family: 'Nunito';
+  font-family: 'Fira Sans Condensed', sans-serif;
   letter-spacing: 0.0625em;
 }
 
@@ -286,11 +286,11 @@ a:focus, a:hover {
 }
 
 .bg-primary {
-  background-color: #64a19d !important;
+  background-color: #6f92b3; !important;
 }
 
 .text-primary {
-  color: #64a19d !important;
+  color: #6f92b3; !important;
 }
 
 footer {
